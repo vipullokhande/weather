@@ -8,7 +8,9 @@
 .buildlog/
 .history
 .svn/
+.lib/secrets/
 migrate_working_dir/
+
 
 # IntelliJ related
 *.iml
